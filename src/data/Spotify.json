@@ -1,0 +1,408 @@
+[
+  {
+    "collaborative": false,
+    "description": "Playlist created by the tutorial on developer.spotify.com",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3LqutynxRzIKksGx3FK19P"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3LqutynxRzIKksGx3FK19P",
+    "id": "3LqutynxRzIKksGx3FK19P",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733b7728c481bf7e7e317aee53ab67616d0000b273b254801db3d996313d6fb0f9ab67616d0000b273b429300079a743641b2ef5c3ab67616d0000b273cf577dc73b47b486dc8a668d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733b7728c481bf7e7e317aee53ab67616d0000b273b254801db3d996313d6fb0f9ab67616d0000b273b429300079a743641b2ef5c3ab67616d0000b273cf577dc73b47b486dc8a668d",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733b7728c481bf7e7e317aee53ab67616d0000b273b254801db3d996313d6fb0f9ab67616d0000b273b429300079a743641b2ef5c3ab67616d0000b273cf577dc73b47b486dc8a668d",
+        "width": 60
+      }
+    ],
+    "name": "My recommendation playlist",
+    "owner": {
+      "display_name": "Nz",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/31nsaixn3m6rbjza7q6fcmiy7qbm"
+      },
+      "href": "https://api.spotify.com/v1/users/31nsaixn3m6rbjza7q6fcmiy7qbm",
+      "id": "31nsaixn3m6rbjza7q6fcmiy7qbm",
+      "type": "user",
+      "uri": "spotify:user:31nsaixn3m6rbjza7q6fcmiy7qbm"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCxmMjQ4MWQ3ZWRiMjVhMDQyN2RjZmYxMzA0ZDI2YzhhYjkyODZmNDIx",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3LqutynxRzIKksGx3FK19P/tracks",
+      "total": 11
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3LqutynxRzIKksGx3FK19P"
+  },
+  {
+    "collaborative": false,
+    "description": "A Blend of music for Nz and Ppat. Updates daily.",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJKLAwVUunIHU"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJKLAwVUunIHU",
+    "id": "37i9dQZF1EJKLAwVUunIHU",
+    "images": [
+      {
+        "height": null,
+        "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_LARGE-forest-seafoam-en.jpg",
+        "width": null
+      }
+    ],
+    "name": "Ppat + Nz",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MCwwMDAwMDAwMDAyNjhhZDA4NmJlZmZjYWE5ZDU1NWQxNDg1MmVhMmQ5",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJKLAwVUunIHU/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1EJKLAwVUunIHU"
+  },
+  {
+    "collaborative": false,
+    "description": "It's how you wear the mask that matters. Music from and inspired by Spider-Man: Into the Spider-Verse and Spider-Man: Across the Spider-Verse.",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSIXPHRZ4SKc"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSIXPHRZ4SKc",
+    "id": "37i9dQZF1DWSIXPHRZ4SKc",
+    "images": [
+      {
+        "height": null,
+        "url": "https://i.scdn.co/image/ab67706f00000003f950e3aec396d3238f13ad52",
+        "width": null
+      }
+    ],
+    "name": "Spider-Verse: The Official Playlist",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTY4NzgwODE3NSwwMDAwMDAwMGMwMzllNTEyMTY1MmE0N2NhYWM0NjI2ZGQyZmI0MWE3",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSIXPHRZ4SKc/tracks",
+      "total": 76
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1DWSIXPHRZ4SKc"
+  },
+  {
+    "collaborative": false,
+    "description": "ชอบนะคะ อยากได้ อิอิ",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/39560NSxTNKBpkM1voZQEy"
+    },
+    "href": "https://api.spotify.com/v1/playlists/39560NSxTNKBpkM1voZQEy",
+    "id": "39560NSxTNKBpkM1voZQEy",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb7c4f28a8581395087b5afef2",
+        "width": null
+      }
+    ],
+    "name": "จีบเธอด้วยเพลย์ลิสต์นี้",
+    "owner": {
+      "display_name": "JINGJY",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/a034u65lyoncbywfalnoq5pha"
+      },
+      "href": "https://api.spotify.com/v1/users/a034u65lyoncbywfalnoq5pha",
+      "id": "a034u65lyoncbywfalnoq5pha",
+      "type": "user",
+      "uri": "spotify:user:a034u65lyoncbywfalnoq5pha"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTQ4LDYxZTI1MGNmMTg3OWY0YzlhYWQ1ZGNlZTdlMzVkZmMyNzU2NWZjMmQ=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/39560NSxTNKBpkM1voZQEy/tracks",
+      "total": 136
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:39560NSxTNKBpkM1voZQEy"
+  },
+  {
+    "collaborative": false,
+    "description": "ร้อยคนทักรักเธอคนนั้น",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2biJuyac3f1pTGnyzCNwW7"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2biJuyac3f1pTGnyzCNwW7",
+    "id": "2biJuyac3f1pTGnyzCNwW7",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbbde4ec0fa2bad6faa469dbbe",
+        "width": null
+      }
+    ],
+    "name": "กูเป็นโค้ชก็ดีอยู่แล้ว",
+    "owner": {
+      "display_name": "daylypop",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/3134rr7mxqbnliurslbqk4mz2zva"
+      },
+      "href": "https://api.spotify.com/v1/users/3134rr7mxqbnliurslbqk4mz2zva",
+      "id": "3134rr7mxqbnliurslbqk4mz2zva",
+      "type": "user",
+      "uri": "spotify:user:3134rr7mxqbnliurslbqk4mz2zva"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "ODUsNTBiMWM5ZGQxMTY5Y2MxNGQ4NzU3ZDRlYTI3ZTZlYmJiOTVjMDYzNg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2biJuyac3f1pTGnyzCNwW7/tracks",
+      "total": 62
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2biJuyac3f1pTGnyzCNwW7"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5u8PspcK1ijQ75YkBKerVc"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5u8PspcK1ijQ75YkBKerVc",
+    "id": "5u8PspcK1ijQ75YkBKerVc",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbac6e3c9b07f3a90a728a806e",
+        "width": null
+      }
+    ],
+    "name": "toohard",
+    "owner": {
+      "display_name": "Thee",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/ve2f1y4azduup69k470tmom8t"
+      },
+      "href": "https://api.spotify.com/v1/users/ve2f1y4azduup69k470tmom8t",
+      "id": "ve2f1y4azduup69k470tmom8t",
+      "type": "user",
+      "uri": "spotify:user:ve2f1y4azduup69k470tmom8t"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MzgzLDAxMDgxNGRmNzliNzFmYjIxZTUzYWVlZDIyMjgwZTdhNWI4ZWY1ODM=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5u8PspcK1ijQ75YkBKerVc/tracks",
+      "total": 348
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5u8PspcK1ijQ75YkBKerVc"
+  },
+  {
+    "collaborative": false,
+    "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3TPMgP3ojGS"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3TPMgP3ojGS",
+    "id": "37i9dQZF1DX3TPMgP3ojGS",
+    "images": [
+      {
+        "height": null,
+        "url": "https://i.scdn.co/image/ab67706f00000003dfd8b99086f2c703cc76a1f1",
+        "width": null
+      }
+    ],
+    "name": "Coffee and Piano",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTcwMjM2MTQzNiwwMDAwMDAwMDBjZmZmNTljZTg1NTMyYjQ1NzIwYWRjNDQ0Nzc5NmJj",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3TPMgP3ojGS/tracks",
+      "total": 100
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1DX3TPMgP3ojGS"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4A3EsGpV4udyPHLKJtgCcx"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4A3EsGpV4udyPHLKJtgCcx",
+    "id": "4A3EsGpV4udyPHLKJtgCcx",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb57662bb35a359339d3e0e9a9",
+        "width": null
+      }
+    ],
+    "name": "ไม่ร้องไห้แต่ร้องเอ๋ง",
+    "owner": {
+      "display_name": "Hc",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/31k2y7ytiksheuxhbkaeuzir2coi"
+      },
+      "href": "https://api.spotify.com/v1/users/31k2y7ytiksheuxhbkaeuzir2coi",
+      "id": "31k2y7ytiksheuxhbkaeuzir2coi",
+      "type": "user",
+      "uri": "spotify:user:31k2y7ytiksheuxhbkaeuzir2coi"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NTg3LDgxNGQzMDlkMTU4ZjdmNGRlZTI4MmRkNjE1YTYwMDc0YWM1Y2Y5Y2E=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4A3EsGpV4udyPHLKJtgCcx/tracks",
+      "total": 501
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4A3EsGpV4udyPHLKJtgCcx"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2bPDWFRerK4QSy1X3yaEZO"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2bPDWFRerK4QSy1X3yaEZO",
+    "id": "2bPDWFRerK4QSy1X3yaEZO",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb627fcde991546c790cd6ebd7",
+        "width": null
+      }
+    ],
+    "name": "ตอนมีความรักมันก็ดีนะ",
+    "owner": {
+      "display_name": "Nz",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/31nsaixn3m6rbjza7q6fcmiy7qbm"
+      },
+      "href": "https://api.spotify.com/v1/users/31nsaixn3m6rbjza7q6fcmiy7qbm",
+      "id": "31nsaixn3m6rbjza7q6fcmiy7qbm",
+      "type": "user",
+      "uri": "spotify:user:31nsaixn3m6rbjza7q6fcmiy7qbm"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTk0LDY5NGJhYjRjZGY5NjI0Y2U5YzYzOWE4NmU5ZGZmYTMzZThkODUxYWY=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2bPDWFRerK4QSy1X3yaEZO/tracks",
+      "total": 169
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2bPDWFRerK4QSy1X3yaEZO"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1muiRZAAIp2w6PaitTBL2R"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1muiRZAAIp2w6PaitTBL2R",
+    "id": "1muiRZAAIp2w6PaitTBL2R",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb27e08c5366f4ea9f5bcd149b",
+        "width": null
+      }
+    ],
+    "name": "เพลงน่ารักแต่เธอน่ารักกว่า",
+    "owner": {
+      "display_name": "bs",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/21idqkofvoyinxtkcezsumtfy"
+      },
+      "href": "https://api.spotify.com/v1/users/21idqkofvoyinxtkcezsumtfy",
+      "id": "21idqkofvoyinxtkcezsumtfy",
+      "type": "user",
+      "uri": "spotify:user:21idqkofvoyinxtkcezsumtfy"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTM0LDAyODZjZGM5MTJkYTFjNzJlNTdiMTEzMDkzNjkyNGE0NmZmNzBlOGY=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1muiRZAAIp2w6PaitTBL2R/tracks",
+      "total": 88
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1muiRZAAIp2w6PaitTBL2R"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0I2xcE2vrOTHAun5sT0mSX"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0I2xcE2vrOTHAun5sT0mSX",
+    "id": "0I2xcE2vrOTHAun5sT0mSX",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb21a6630be2d8b813c874d893",
+        "width": null
+      }
+    ],
+    "name": "ส่งเพลงนี้ไปให้ใคร ก็แสดงว่าชอบคนนั้นแหละ",
+    "owner": {
+      "display_name": "whattheduckmusic",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/whattheduckmusic"
+      },
+      "href": "https://api.spotify.com/v1/users/whattheduckmusic",
+      "id": "whattheduckmusic",
+      "type": "user",
+      "uri": "spotify:user:whattheduckmusic"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OTksOWQ3Yjg1YWY4M2Y1NmQzNzc4NWNmZTY4MjMwNjdiOGViNjE3NTk5YQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0I2xcE2vrOTHAun5sT0mSX/tracks",
+      "total": 73
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0I2xcE2vrOTHAun5sT0mSX"
+  }
+]

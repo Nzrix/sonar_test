@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "img": "/Album.jpg",
+    "nameplaylist": "กูเป็นโค้ชก็ดีอยู่แล้ว",
+    "listsongname": [
+      {
+        "name": "ผู้ชายแบบผม",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      },
+      {
+        "name": "ยืด",
+        "path": "/ยืด.mp3",
+        "imgsong": "/music_cover.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "/Pictoohard.jpg",
+    "nameplaylist": "toohard",
+    "listsongname": [
+      {
+        "name": "ผู้ชายแบบผม2",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      },
+      {
+        "name": "ผู้ชายแบบผม22",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "/Album2.jpg",
+    "nameplaylist": "ตอนมีความรักมันก็ดีนะ",
+    "listsongname": [
+      {
+        "name": "ผู้ชายแบบผม3",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      },
+      {
+        "name": "ผู้ชายแบบผม33",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "/recom.jpg",
+    "nameplaylist": "My recommendation playlist",
+    "listsongname": [
+      {
+        "name": "ผู้ชายแบบผม4",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      },
+      {
+        "name": "ผู้ชายแบบผม44",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "/blend_LARGE.jpg",
+    "nameplaylist": "Ppat + Nz",
+    "listsongname": [
+      {
+        "name": "ผู้ชายแบบผม1",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      },
+      {
+        "name": "ผู้ชายแบบผม2",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "/spider.jpg",
+    "nameplaylist": "Spider-Verse: The Official Playlist",
+    "listsongname": [
+      {
+        "name": "ผู้ชายแบบผม1",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      },
+      {
+        "name": "ผู้ชายแบบผม2",
+        "path": "/ผู้ชายแบบผม.mp3",
+        "imgsong": "/music_cover.png"
+      }
+    ]
+  }
+]
